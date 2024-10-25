@@ -99,7 +99,11 @@ body {
     display: flex;
     gap: 20px;
 }
-
+.nav-panel h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #333;
+}
 /* Fancy Button Styling */
 .button {
     padding: 12px 30px;
